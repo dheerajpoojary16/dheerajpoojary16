@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Learning today, leading tomorrow" />
+  <img src="https://github.com/username/repository-name/blob/main/assets/1731427081615.jpg?raw=true" alt="Learning today, leading tomorrow" />
 </p>
+
 
 I am [Deeraj](www.linkedin.com/in/deeraj-poojary-17a271301), 🎓 Pursuing my Master's in Computer Applications at Manipal Institute of Technology.
 💻 Aspiring full-stack developer passionate about building impactful solutions.
