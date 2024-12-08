@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/username/repository-name/blob/main/assets/1731427081615.jpg?raw=true" alt="Learning today, leading tomorrow" />
+  <img src="https://github.com/dheerajpoojary16/dheerajpoojary16/blob/main/banner.jpg?raw=true" alt="Learning today, leading tomorrow" />
 </p>
 
 
