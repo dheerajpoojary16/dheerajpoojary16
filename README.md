@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/thumbnail.jpg" alt="Thumbnail" width="300" />
+</p>
 
 I am [Deeraj](www.linkedin.com/in/deeraj-poojary-17a271301), 🎓 Pursuing my Master's in Computer Applications at Manipal Institute of Technology.
 💻 Aspiring full-stack developer passionate about building impactful solutions.
