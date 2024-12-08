@@ -12,7 +12,7 @@ Feel free to connect and explore my projects! 🚀
 
 
 <p float="left">
-  <a href="https://python.org/" target="_blank" >
+
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
