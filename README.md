@@ -1,8 +1,4 @@
-### Hi there 👋
 
-<!--
-**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 I am [Deeraj](www.linkedin.com/in/deeraj-poojary-17a271301), 🎓 Pursuing my Master's in Computer Applications at Manipal Institute of Technology.
 💻 Aspiring full-stack developer passionate about building impactful solutions.
