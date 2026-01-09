@@ -3,11 +3,12 @@
 </p>
 
 
-I am [Deeraj](www.linkedin.com/in/deeraj-poojary-17a271301), 🎓 Pursuing my Master's in Computer Applications at Manipal Institute of Technology.
-💻 Aspiring full-stack developer passionate about building impactful solutions.
-🌱 Always learning and exploring new technologies.
-Feel free to connect and explore my projects! 🚀
+**Dheeraj Poojary**
+MCA graduate with hands-on experience in ** ASP.NET MVC, Entity Framework, and SQL.**
+Focused on building clean, practical web applications with proper architecture and real-world patterns.
+Actively strengthening full-stack fundamentals and preparing for software developer roles.
 
+Always open to meaningful conversations, collaboration, and opportunities.
 
 
 ###  👨‍💻  Programming languages
