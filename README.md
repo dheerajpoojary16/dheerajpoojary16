@@ -4,8 +4,8 @@
 
 
 **Dheeraj Poojary**  <br>
-<br>
-<br>
+
+
 MCA graduate with hands-on experience in **ASP.NET MVC**, **Entity Framework**, and **SQL Server**.
 Focused on building clean, practical web applications with proper architecture and real-world patterns.
 Actively strengthening full-stack fundamentals and preparing for software developer roles.
