@@ -63,4 +63,4 @@ Always open to meaningful conversations, collaboration, and opportunities.
  
  - Connect with me on [LinkedIn](www.linkedin.com/in/deeraj-poojary-17a271301) 👨🏻‍💻
  - Shoot Me an [Email](mailto:dheerajpoojarydheeraj@gmail.com) 💌
- - Check my Portfolio [Website](https://my-portfolio-619.netlify.app)
+ - Check my Portfolio [Website](https://dheerajpoojary.netlify.app/)
